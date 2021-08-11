@@ -1,4 +1,4 @@
-package com.deborger.rest.webservices.restfulwebservices.dao;
+package com.deborger.rest.webservices.restfulwebservices.service;
 
 import com.deborger.rest.webservices.restfulwebservices.bean.User;
 import org.springframework.stereotype.Component;

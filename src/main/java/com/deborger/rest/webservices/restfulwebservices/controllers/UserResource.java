@@ -4,7 +4,7 @@ import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.methodOn;
 
 import com.deborger.rest.webservices.restfulwebservices.bean.User;
-import com.deborger.rest.webservices.restfulwebservices.dao.UserDAOService;
+import com.deborger.rest.webservices.restfulwebservices.service.UserDAOService;
 import com.deborger.rest.webservices.restfulwebservices.exceptions.UserNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.hateoas.EntityModel;
